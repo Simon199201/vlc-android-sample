@@ -1,2 +1,2 @@
 include ':wheelView'
-include ':vLC'
+include ':vlc'
